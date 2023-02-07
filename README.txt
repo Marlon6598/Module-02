@@ -1,0 +1,2 @@
+For this assignment, we had to create a Visual Basic Script to analyze stock market data.
+We created  tables that truncated our stock tickers, calculated the yearly change, percent change, total stock volume, and lastly determined the largest total volume and percent increase and decrease. In this repo, you can see the code running accross all the worksheets in the screenshots.
